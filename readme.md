@@ -72,6 +72,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
+- [Opowieści skrypty](https://fajerbol.itch.io/opowieci-skrypty) - a d8 using system whose sessions last less than an hour (CC) (warning, not English, [PL]
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern tactical combat system (CC)
 - [Quest](https://www.adventure.game/resources/) - a fantasy game (CC BY)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
@@ -276,6 +277,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Enchanted Realms](https://archive.org/details/enchanted-realms) - "free for anyone to take an use as they wish"
 - [Carta SRD](https://peachgardengames.itch.io/carta-srd) - a solitaire-based game
 - [Freelancer's Guide](https://pagodagamesllc.itch.io/freelancers-guide) - a sci-fi card based game
+- [Haunted Houses Solitaire](http://www.1km1kt.net/rpg/Haunted_Houses_Solitaire_RPG.pdf) - an old freebie with unclear licensing; uses a deck of playing cards to emulate dice
 
 
 ## Related Awesome Lists
